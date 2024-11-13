@@ -36,7 +36,3 @@ Skilled in developing innovative technical solutions and mentoring others. I asp
     </picture>
   </a>
 </p>
-
-### Badges
-
-<b>My GitHub Stats</b> <a href="http://www.github.com/Isaac-PM"><img decoding="async" loading="lazy" src="https://github-readme-streak-stats.herokuapp.com/?user=Isaac-PM&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>

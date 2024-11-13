@@ -1,4 +1,4 @@
-Hi 👋 My name is Isaac Fabián Palma Medina
+Hi 👋 My name is Isaac Palma
 ==========================================
 
 Research Assistant at CNCA & External Participant at CERN

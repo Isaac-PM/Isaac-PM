@@ -8,8 +8,6 @@ Software developer and research assistant, currently supporting software enginee
 
 Skilled in developing innovative technical solutions and mentoring others. I aspire to keep evolving while making meaningful contributions to development initiatives, education, and scientific advancement.
 
-*   🌍  I'm based in Costa Rica 🇨🇷
-
 ### Skills 
 
 <p align="left">

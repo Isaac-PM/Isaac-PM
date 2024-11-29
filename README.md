@@ -4,9 +4,7 @@ Hi 👋 My name is Isaac Palma
 Research Assistant at CNCA & External Participant at CERN
 ---------------------------------------------------------
 
-Software developer and research assistant, currently supporting software engineering efforts at CERN's LHCb experiment throughout Costa Rica's High Technology Center (CeNAT's CNCA), with a passion for collaborative projects, scientific environments, and continuous learning. 
-
-Skilled in developing innovative technical solutions and mentoring others. I aspire to keep evolving while making meaningful contributions to development initiatives, education, and scientific advancement.
+Software developer and research assistant, passionate about collaborative projects, scientific research, and continuous learning.
 
 ### Skills 
 

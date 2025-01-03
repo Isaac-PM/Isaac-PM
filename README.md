@@ -1,10 +1,10 @@
 Hi 👋 My name is Isaac Palma
 ==========================================
 
-Research Assistant at CNCA & External Participant at CERN
+Research Assistant at CNCA & Collaborator at CERN
 ---------------------------------------------------------
 
-Software developer and research assistant, passionate about collaborative projects, scientific research, and continuous learning.
+Software engineer and research assistant, passionate about collaborative projects, scientific research, and continuous learning.
 
 ### Skills 
 
